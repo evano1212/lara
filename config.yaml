@@ -17,8 +17,8 @@ params:
   logo: "arrow-up.png"
 
   favicons:
-    themeColor: "#FFFFFF"
-    backgroundColor: "#FFFFFF"
+    themeColor: "#CD992BF"
+    backgroundColor: "#F9F7ED"
     faviconColor: "#000000"
 
   social:
